@@ -1,3 +1,5 @@
+This is a sensitive experiment to handle, which uses thin polymer memberane in between the stack. I can produce Max of 1.5V - 2V of max voltage and 0.2A of max current for a series of 10 cell/ membrane stacked together.
+
 # RED-stack![werking-blue-energy-nl](https://github.com/manoj4724/RED-stack/assets/65806100/57b9ac0d-c103-41f6-8899-6b8f0523d300)
 RED ( Reverse ElectroDialysis ) uses the fact that salts are made up of ions: positively and negatively charged particles. In seawater these are mainly Na+ (the sodium ion) and Cl- (the chloride ion). And when a salt is dissolved in water, these ions appear as loose particles in the water. Two types of membranes are now used at RED: membranes that only allow positive ions to pass through (CEM, Cation Exchange Membranes) and membranes that only allow negative ions to pass through (AEM, Anion Exchange Membranes).
 
